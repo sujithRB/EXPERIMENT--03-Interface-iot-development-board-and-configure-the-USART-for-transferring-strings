@@ -3,11 +3,11 @@
 **DATE:**
 18/09/2025
 **NAME:**
-sujith R B
+ Vaitheswaran N
 **ROLL NO:**
-25009845
+24901212
 **DEPARTMENT:**
-CSE (CYB)
+CSE (IOT)
 ## Aim:
 
 To Interface iot development board for configuring the usart and transfer strings through it 
